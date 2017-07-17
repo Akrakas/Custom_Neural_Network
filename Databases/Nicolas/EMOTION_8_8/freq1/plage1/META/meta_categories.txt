@@ -1,0 +1,6 @@
+Anger 0 10
+Disgust 1 10
+Fear 2 10
+Joy 3 10
+Sadness 4 10
+Surprise 5 10

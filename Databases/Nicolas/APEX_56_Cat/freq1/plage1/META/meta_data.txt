@@ -1,0 +1,5 @@
+Number_of_inputs 1
+Input_size 56
+Output_size 6
+Category_number 6
+Pattern_number 60

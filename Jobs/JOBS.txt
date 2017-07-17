@@ -1,0 +1,7 @@
+../../DATABASE/Nicolas/EMOTION_62_56_t3/freq1/
+../../DATABASE/Nicolas/EMOTION_62_56_t3/freq2/
+../../DATABASE/Nicolas/EMOTION_62_56_t3/freq3/
+../../DATABASE/Nicolas/EMOTION_62_56_t3/freq4/
+../../DATABASE/Nicolas/EMOTION_62_56_t3/freq5/
+../../DATABASE/Nicolas/EMOTION_62_56_t3/freq6/
+../../DATABASE/Nicolas/EMOTION_62_56_t3/freq7/
